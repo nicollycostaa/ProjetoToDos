@@ -1,5 +1,3 @@
-Claro! Aqui está uma versão aprimorada e mais visual do seu arquivo `README.md`, incluindo emojis para torná-lo mais atrativo e amigável:
-
 ````markdown
 # 📝 Projeto Lista de Tarefas
 
